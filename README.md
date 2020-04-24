@@ -6,7 +6,7 @@ The purpose of this project is to build a machine learning regression model to p
 
 # Dataset
 
-![](images/dataset%20head.png)
+![](images/dataset.png)
 
 All the predictors are aggregated over different kilometer ranges and different statistical functions so it had an impact on the dimesionality of the data. The dataset used for this project consists of 559 variables and 1777 observations. Therefore, implementing proper feature reduction method is an important aspect of this project to avoid overfitting. 
 
